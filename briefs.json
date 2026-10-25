@@ -1,0 +1,530 @@
+{
+ "docs": [
+  {
+   "date": "Mon Oct 26, 2026",
+   "asof": "Fri Oct 23 close",
+   "fs": [
+    {
+     "k": "inf",
+     "n": "Inflation",
+     "nq": -1,
+     "es": -1,
+     "read": "September CPI beat on both headline and core, and the trend is accelerating.",
+     "ev": [
+      "Headline CPI 3.7% y/y vs 3.6% expected; +0.6% m/m vs 0.4% in August.",
+      "Core CPI 2.6% y/y vs 2.5% expected (prior 2.4%); core +0.3% m/m vs 0.2% expected.",
+      "Gasoline rose 9.1% in the month and made up about half of the headline gain."
+     ],
+     "ct": [
+      "Core at 2.6% is still moderate next to headline; energy drove most of the monthly rise.",
+      "Energy-led inflation can fade quickly if oil retreats."
+     ],
+     "src": [
+      [
+       "CPI report",
+       "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+      ],
+      [
+       "BLS CPI",
+       "https://www.bls.gov/cpi/"
+      ]
+     ]
+    },
+    {
+     "k": "job",
+     "n": "Jobs",
+     "nq": 0,
+     "es": 0,
+     "read": "Payrolls are weak but layoffs are low, so the labor picture is mixed.",
+     "ev": [
+      "September payrolls +29k vs a 45k 12-month average; unemployment 4.2%; wages +0.1% m/m.",
+      "Initial jobless claims 194k vs 200k expected (week ending Oct 17); continuing claims 1.728M."
+     ],
+     "ct": [
+      "Low claims say layoffs are not rising, which supports further Fed tightening (bearish).",
+      "Weak hiring lowers hike odds and signals slowing growth. Net: mixed."
+     ],
+     "src": [
+      [
+       "Claims report",
+       "https://www.actionforex.com/live-comments/658377-us-jobless-claims-fall-to-194k-continuing-claims-edge-higher/"
+      ],
+      [
+       "Jobs report",
+       "https://www.bls.gov/news.release/empsit.toc.htm"
+      ]
+     ]
+    },
+    {
+     "k": "fed",
+     "n": "The Fed",
+     "nq": -1,
+     "es": -1,
+     "read": "Fed is mid hiking cycle; the hold on Wednesday is priced, so December guidance is the risk.",
+     "ev": [
+      "Sept 16: 25bp hike to 3.75\u20134.00%; minutes showed unanimous support.",
+      "CME FedWatch: about 91% hold on Oct 28 (hike about 9%), and about 78\u201384% for a December hike; futures imply roughly 2.7 hikes over 12 months.",
+      "Reuters poll: 94 of 100 economists expect a hold; all 100 expect a December hike.",
+      "Decision Wed Oct 28, 2:00 PM ET, then Chair Warsh's press conference; core PCE is due Thursday."
+     ],
+     "ct": [
+      "A hold is almost fully priced, so the decision itself is unlikely to move markets.",
+      "If Warsh leaves December open, hike pricing could unwind and relieve equities."
+     ],
+     "src": [
+      [
+       "Week ahead",
+       "https://yardeniquicktakes.com/economic-week-ahead-october-26-30"
+      ],
+      [
+       "Fed calendar",
+       "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      ]
+     ]
+    },
+    {
+     "k": "yld",
+     "n": "Treasury yields",
+     "nq": -1,
+     "es": -1,
+     "read": "Nominal and real yields are both high, a hostile level for long-duration tech.",
+     "ev": [
+      "Fri close: 2y 4.686%, 10y 5.001%, 30y 5.329%; 10y is about +81bp year to date.",
+      "10-year TIPS real yield about 2.38% (Bloomberg, Oct 23).",
+      "Thursday's 17bp drop was a flight to safety during the AI selloff and was partly reversed Friday."
+     ],
+     "ct": [
+      "Yields fell from 5.13% on Wednesday and are about 20bp below a month ago.",
+      "Nasdaq 100 finished Friday flat despite higher yields, so some pressure may be priced in.",
+      "Real yield came from one quote source and was not cross-checked."
+     ],
+     "src": [
+      [
+       "TIPS & Treasuries",
+       "https://www.bloomberg.com/markets/rates-bonds/government-bonds/us"
+      ],
+      [
+       "Daily curve",
+       "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      ]
+     ]
+    },
+    {
+     "k": "pol",
+     "n": "Policy & oil",
+     "nq": -2,
+     "es": -2,
+     "read": "Brent is near $117 and the Iran war is spreading to Gulf states.",
+     "ev": [
+      "Brent $116.72 on Sunday vs $113.90 Friday; WTI above $100 Friday.",
+      "Houthi missiles were intercepted over Riyadh Sunday and Washington is pulling diplomatic families out of Saudi Arabia.",
+      "US crude stocks are down 79M barrels since the war began on Feb 28."
+     ],
+     "ct": [
+      "De-escalation or talks headlines have repeatedly reversed oil spikes.",
+      "Weekend headlines are unconfirmed until official statements follow."
+     ],
+     "src": [
+      [
+       "Sunday market note",
+       "https://financefeeds.com/gold-price-today-3996-sunday-fed-28-october-hike-odds-9-percent-pce-29-october-silver-2026-low-bull-4150-bear-3890/"
+      ],
+      [
+       "EIA weekly",
+       "https://www.eia.gov/petroleum/supply/weekly/"
+      ]
+     ]
+    },
+    {
+     "k": "gro",
+     "n": "Growth & claims",
+     "nq": 0,
+     "es": 1,
+     "read": "Activity is booming, which helps earnings but keeps the Fed hawkish.",
+     "ev": [
+      "Flash composite PMI 57.6 (prior 58.4); manufacturing 56.0, a 53-month high; services 57.9.",
+      "New orders at a 4.5-year high; selling prices rose at the fastest rate since Aug 2022.",
+      "Initial jobless claims 194k, below the 200k consensus."
+     ],
+     "ct": [
+      "Strong demand plus price pressure supports more hikes, which hurts valuations (why NQ is 0, not positive).",
+      "Services slipped and output expectations cooled from September."
+     ],
+     "src": [
+      [
+       "Flash PMI",
+       "https://pro.thestreet.com/market-commentary/flash-pmi-holds-near-5-year-high-but-prices-jump-the-most-since-2022"
+      ]
+     ]
+    },
+    {
+     "k": "usd",
+     "n": "Dollar & conditions",
+     "nq": 0,
+     "es": 0,
+     "read": "The dollar is mid-range and not driving the move.",
+     "ev": [
+      "DXY about 101.8 on Oct 23, inside a one-month range of 100.87 to 102.94."
+     ],
+     "ct": [
+      "A break above 103 would tighten financial conditions; nothing suggests that yet."
+     ],
+     "src": [
+      [
+       "DXY history",
+       "https://www.investing.com/indices/usdollar-historical-data"
+      ]
+     ]
+    },
+    {
+     "k": "ern",
+     "n": "Earnings & AI capex",
+     "nq": -1,
+     "es": -1,
+     "read": "AI-spending doubts are hitting the group that leads NQ.",
+     "ev": [
+      "Nasdaq Composite fell 2.6% on Thursday on AI-spending worries, its largest drop since June.",
+      "Credit default swap spreads widened on a host of AI companies; tech bond yields rose.",
+      "Mega-cap earnings and the Fed land in the same week."
+     ],
+     "ct": [
+      "Nasdaq 100 finished Friday flat, so selling momentum may be fading.",
+      "Strong mega-cap results could reverse the AI-capex narrative quickly."
+     ],
+     "src": [
+      [
+       "Weekly wrap",
+       "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      ]
+     ]
+    },
+    {
+     "k": "vol",
+     "n": "Volatility & credit",
+     "nq": -1,
+     "es": 0,
+     "read": "Nasdaq options are pricing elevated risk; the S&P is calmer.",
+     "ev": [
+      "VIX 19.45 on Oct 23, up from 16.68 on Oct 21 (52-week range 13.38\u201335.30).",
+      "QQQ implied volatility 26.3% (elevated) vs SPY 15.5% (normal).",
+      "Credit default swap spreads widened on AI companies."
+     ],
+     "ct": [
+      "VIX under 20 is not a stress level.",
+      "Only AI-linked credit was checked; broad credit spreads were not."
+     ],
+     "src": [
+      [
+       "Market pulse",
+       "https://deanfi.com/insights/marketpulse/2026-10-23/"
+      ]
+     ]
+    }
+   ],
+   "out": {},
+   "gaps": [
+    "Real yield taken from one quote source; hike odds differ slightly by source (CME ~9% vs prediction markets ~6%).",
+    "Monday pre-market not yet observed; refresh around 9:00 ET."
+   ],
+   "sum": "Five of nine factors lean bearish: hot CPI, a Fed hold that comes with a likely December hike, 5% nominal and 2.4% real yields, Brent near $117 on Gulf escalation, and AI-spending doubts. Strong PMIs and low claims keep growth from being a drag, and jobs and the dollar are neutral. NQ scores about -0.83 and ES about -0.65, so ES is nearer the Medium cutoff. Event risk is high this week.",
+   "ts": 1793001000000,
+   "sess": "OPEN",
+   "title": "9:30 open overview, Mon Oct 26 (preliminary, built Sunday)",
+   "flip": [
+    "Warsh leaves a December hike open or sounds patient, unwinding hike pricing.",
+    "Brent falls sharply on a credible Iran de-escalation.",
+    "Core PCE (Thu) prints below the ~3.1% nowcast and mega-cap earnings reverse the AI-capex fear."
+   ],
+   "risk": "High (FOMC Wed 2 PM with Chair Warsh, core PCE Thu, mega-cap earnings, Iran escalation, 5% 10y)",
+   "id": "2026-10-26-OPEN"
+  },
+  {
+   "date": "Mon Oct 26, 2026",
+   "asof": "Fri Oct 23 close",
+   "fs": [
+    {
+     "k": "inf",
+     "n": "Inflation",
+     "nq": -1,
+     "es": -1,
+     "read": "September CPI beat on both headline and core, and the trend is accelerating.",
+     "ev": [
+      "Headline CPI 3.7% y/y vs 3.6% expected; +0.6% m/m vs 0.4% in August.",
+      "Core CPI 2.6% y/y vs 2.5% expected (prior 2.4%); core +0.3% m/m vs 0.2% expected.",
+      "Gasoline rose 9.1% in the month and made up about half of the headline gain."
+     ],
+     "ct": [
+      "Core at 2.6% is still moderate next to headline; energy drove most of the monthly rise.",
+      "Energy-led inflation can fade quickly if oil retreats."
+     ],
+     "src": [
+      [
+       "CPI report",
+       "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+      ],
+      [
+       "BLS CPI",
+       "https://www.bls.gov/cpi/"
+      ]
+     ]
+    },
+    {
+     "k": "job",
+     "n": "Jobs",
+     "nq": 0,
+     "es": 0,
+     "read": "Payrolls are weak but layoffs are low, so the labor picture is mixed.",
+     "ev": [
+      "September payrolls +29k vs a 45k 12-month average; unemployment 4.2%; wages +0.1% m/m.",
+      "Initial jobless claims 194k vs 200k expected (week ending Oct 17); continuing claims 1.728M."
+     ],
+     "ct": [
+      "Low claims say layoffs are not rising, which supports further Fed tightening (bearish).",
+      "Weak hiring lowers hike odds and signals slowing growth. Net: mixed."
+     ],
+     "src": [
+      [
+       "Claims report",
+       "https://www.actionforex.com/live-comments/658377-us-jobless-claims-fall-to-194k-continuing-claims-edge-higher/"
+      ],
+      [
+       "Jobs report",
+       "https://www.bls.gov/news.release/empsit.toc.htm"
+      ]
+     ]
+    },
+    {
+     "k": "fed",
+     "n": "The Fed",
+     "nq": -1,
+     "es": -1,
+     "read": "Fed is mid hiking cycle; the hold on Wednesday is priced, so December guidance is the risk.",
+     "ev": [
+      "Sept 16: 25bp hike to 3.75\u20134.00%; minutes showed unanimous support.",
+      "CME FedWatch: about 91% hold on Oct 28 (hike about 9%), and about 78\u201384% for a December hike; futures imply roughly 2.7 hikes over 12 months.",
+      "Reuters poll: 94 of 100 economists expect a hold; all 100 expect a December hike.",
+      "Decision Wed Oct 28, 2:00 PM ET, then Chair Warsh's press conference; core PCE is due Thursday."
+     ],
+     "ct": [
+      "A hold is almost fully priced, so the decision itself is unlikely to move markets.",
+      "If Warsh leaves December open, hike pricing could unwind and relieve equities."
+     ],
+     "src": [
+      [
+       "Week ahead",
+       "https://yardeniquicktakes.com/economic-week-ahead-october-26-30"
+      ],
+      [
+       "Fed calendar",
+       "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      ]
+     ]
+    },
+    {
+     "k": "yld",
+     "n": "Treasury yields",
+     "nq": -1,
+     "es": -1,
+     "read": "Nominal and real yields are both high, a hostile level for long-duration tech.",
+     "ev": [
+      "Fri close: 2y 4.686%, 10y 5.001%, 30y 5.329%; 10y is about +81bp year to date.",
+      "10-year TIPS real yield about 2.38% (Bloomberg, Oct 23).",
+      "Thursday's 17bp drop was a flight to safety during the AI selloff and was partly reversed Friday."
+     ],
+     "ct": [
+      "Yields fell from 5.13% on Wednesday and are about 20bp below a month ago.",
+      "Nasdaq 100 finished Friday flat despite higher yields, so some pressure may be priced in.",
+      "Real yield came from one quote source and was not cross-checked."
+     ],
+     "src": [
+      [
+       "TIPS & Treasuries",
+       "https://www.bloomberg.com/markets/rates-bonds/government-bonds/us"
+      ],
+      [
+       "Daily curve",
+       "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      ]
+     ]
+    },
+    {
+     "k": "pol",
+     "n": "Policy & oil",
+     "nq": -2,
+     "es": -2,
+     "read": "Brent is near $117 and the Iran war is spreading to Gulf states.",
+     "ev": [
+      "Brent $116.72 on Sunday vs $113.90 Friday; WTI above $100 Friday.",
+      "Houthi missiles were intercepted over Riyadh Sunday and Washington is pulling diplomatic families out of Saudi Arabia.",
+      "US crude stocks are down 79M barrels since the war began on Feb 28."
+     ],
+     "ct": [
+      "De-escalation or talks headlines have repeatedly reversed oil spikes.",
+      "Weekend headlines are unconfirmed until official statements follow."
+     ],
+     "src": [
+      [
+       "Sunday market note",
+       "https://financefeeds.com/gold-price-today-3996-sunday-fed-28-october-hike-odds-9-percent-pce-29-october-silver-2026-low-bull-4150-bear-3890/"
+      ],
+      [
+       "EIA weekly",
+       "https://www.eia.gov/petroleum/supply/weekly/"
+      ]
+     ]
+    },
+    {
+     "k": "gro",
+     "n": "Growth & claims",
+     "nq": 0,
+     "es": 1,
+     "read": "Activity is booming, which helps earnings but keeps the Fed hawkish.",
+     "ev": [
+      "Flash composite PMI 57.6 (prior 58.4); manufacturing 56.0, a 53-month high; services 57.9.",
+      "New orders at a 4.5-year high; selling prices rose at the fastest rate since Aug 2022.",
+      "Initial jobless claims 194k, below the 200k consensus."
+     ],
+     "ct": [
+      "Strong demand plus price pressure supports more hikes, which hurts valuations (why NQ is 0, not positive).",
+      "Services slipped and output expectations cooled from September."
+     ],
+     "src": [
+      [
+       "Flash PMI",
+       "https://pro.thestreet.com/market-commentary/flash-pmi-holds-near-5-year-high-but-prices-jump-the-most-since-2022"
+      ]
+     ]
+    },
+    {
+     "k": "usd",
+     "n": "Dollar & conditions",
+     "nq": 0,
+     "es": 0,
+     "read": "The dollar is mid-range and not driving the move.",
+     "ev": [
+      "DXY about 101.8 on Oct 23, inside a one-month range of 100.87 to 102.94."
+     ],
+     "ct": [
+      "A break above 103 would tighten financial conditions; nothing suggests that yet."
+     ],
+     "src": [
+      [
+       "DXY history",
+       "https://www.investing.com/indices/usdollar-historical-data"
+      ]
+     ]
+    },
+    {
+     "k": "ern",
+     "n": "Earnings & AI capex",
+     "nq": -1,
+     "es": -1,
+     "read": "AI-spending doubts are hitting the group that leads NQ.",
+     "ev": [
+      "Nasdaq Composite fell 2.6% on Thursday on AI-spending worries, its largest drop since June.",
+      "Credit default swap spreads widened on a host of AI companies; tech bond yields rose.",
+      "Mega-cap earnings and the Fed land in the same week."
+     ],
+     "ct": [
+      "Nasdaq 100 finished Friday flat, so selling momentum may be fading.",
+      "Strong mega-cap results could reverse the AI-capex narrative quickly."
+     ],
+     "src": [
+      [
+       "Weekly wrap",
+       "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      ]
+     ]
+    },
+    {
+     "k": "vol",
+     "n": "Volatility & credit",
+     "nq": -1,
+     "es": 0,
+     "read": "Nasdaq options are pricing elevated risk; the S&P is calmer.",
+     "ev": [
+      "VIX 19.45 on Oct 23, up from 16.68 on Oct 21 (52-week range 13.38\u201335.30).",
+      "QQQ implied volatility 26.3% (elevated) vs SPY 15.5% (normal).",
+      "Credit default swap spreads widened on AI companies."
+     ],
+     "ct": [
+      "VIX under 20 is not a stress level.",
+      "Only AI-linked credit was checked; broad credit spreads were not."
+     ],
+     "src": [
+      [
+       "Market pulse",
+       "https://deanfi.com/insights/marketpulse/2026-10-23/"
+      ]
+     ]
+    }
+   ],
+   "out": {},
+   "gaps": [
+    "Real yield taken from one quote source; hike odds differ slightly by source (CME ~9% vs prediction markets ~6%)."
+   ],
+   "sum": "Five of nine factors lean bearish: hot CPI, a Fed hold that comes with a likely December hike, 5% nominal and 2.4% real yields, Brent near $117 on Gulf escalation, and AI-spending doubts. Strong PMIs and low claims keep growth from being a drag, and jobs and the dollar are neutral. NQ scores about -0.83 and ES about -0.65, so ES is nearer the Medium cutoff. Event risk is high this week.",
+   "ts": 1793000000000,
+   "sess": "ON",
+   "title": "Overnight outlook, Sun 6 p.m. to Mon 8:30 a.m.",
+   "flip": [
+    "Warsh leaves a December hike open or sounds patient, unwinding hike pricing.",
+    "Brent falls sharply on a credible Iran de-escalation.",
+    "Core PCE (Thu) prints below the ~3.1% nowcast and mega-cap earnings reverse the AI-capex fear."
+   ],
+   "risk": "High (FOMC Wed 2 PM with Chair Warsh, core PCE Thu, mega-cap earnings, Iran escalation, 5% 10y)",
+   "id": "2026-10-26-ON"
+  }
+ ],
+ "tape": [
+  {
+   "date": "Wed Oct 21",
+   "spx": 0.58,
+   "ixic": 1.05,
+   "note": "Breadth positive; VIX 16.68",
+   "ts": 1792540800000
+  },
+  {
+   "date": "Thu Oct 22",
+   "spx": -1.21,
+   "ixic": -2.6,
+   "note": "AI-spending selloff; 10y -17bp",
+   "ts": 1792627200000
+  },
+  {
+   "date": "Fri Oct 23",
+   "spx": -0.53,
+   "ixic": -0.21,
+   "note": "Iran tension, oil up; NDX flat",
+   "ts": 1792713600000
+  },
+  {
+   "date": "Fri Oct 16",
+   "spx": -1.09,
+   "ixic": null,
+   "note": "AI selloff, S&P closed 7,659",
+   "ts": 1792108800000
+  },
+  {
+   "date": "Thu Oct 15",
+   "spx": 0.33,
+   "ixic": 0.08,
+   "note": "Day after hot CPI",
+   "ts": 1792022400000
+  },
+  {
+   "date": "Tue Oct 13",
+   "spx": -0.02,
+   "ixic": -0.15,
+   "note": "Energy +3.3%",
+   "ts": 1791849600000
+  },
+  {
+   "date": "Mon Oct 12",
+   "spx": -0.06,
+   "ixic": -0.44,
+   "note": "Tech slips, energy leads",
+   "ts": 1791763200000
+  }
+ ]
+}
